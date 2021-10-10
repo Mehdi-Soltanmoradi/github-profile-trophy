@@ -9,4 +9,10 @@
   
   
   
-https://github-profile-trophy.vercel.app/?username=Mehdi-Soltanmoradi&no-bg=false
+https://github-profile-trophy.vercel.app/?username=Mehdi-Soltanmoradi&no-bg=true
+  
+  
+  
+  
+  deno lint --unstable
+
