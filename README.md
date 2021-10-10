@@ -14,7 +14,7 @@
   
   
   
-https://github-profile-trophy.vercel.app/?username=Mehdi-Soltanmoradi&no-bg=true
+https://github-profile-trophy.vercel.app/?username=Mehdi-Soltanmoradi&no-bg=true/api
   
   
   
